@@ -1,2 +1,2 @@
 # Unity-FPS-Controller
-First Person Controller For Unity
+First Person Controller For Unity 2
